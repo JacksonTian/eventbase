@@ -1,6 +1,6 @@
 {
   "name": "eventbase",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Event Base",
   "main": "index.js",
   "scripts": {
